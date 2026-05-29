@@ -7,7 +7,7 @@
 🚀 **Zero external dependencies.** Only requires Node.js (v12+).
 🎨 **Beautiful TTY UI** with categories, instant search, arrow-key navigation, and clean terminal output.
 
-<video src="preview.mp4" width="100%" controls autoplay loop muted></video>
+![Makefile Commander](preview.gif)
 
 ---
 

@@ -7,7 +7,7 @@
 🚀 **Ноль внешних зависимостей.** Нужна только установленная Node.js (v12+).
 🎨 **Красивый TTY UI** с поддержкой категорий, мгновенным поиском на лету, удобной навигацией по стрелочкам и чистым выводом в терминал.
 
-<video src="preview.mp4" width="100%" controls autoplay loop muted></video>
+![Makefile Commander](preview.gif)
 
 ---
 
